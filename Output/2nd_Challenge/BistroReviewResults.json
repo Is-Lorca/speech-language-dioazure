@@ -1,0 +1,688 @@
+{
+    "documents": [
+        {
+            "id": "id__2115",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.27,
+                "neutral": 0.13,
+                "negative": 0.6
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.44,
+                        "neutral": 0.56,
+                        "negative": 0.01
+                    },
+                    "offset": 0,
+                    "length": 98,
+                    "text": "Underwhelming dining experience   The Harborview Bistro, San Francisco, California, USA  10/22/2023\r\n",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.75,
+                                "negative": 0.25
+                            },
+                            "offset": 14,
+                            "length": 17,
+                            "text": "dining experience",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/0/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.75,
+                                "negative": 0.25
+                            },
+                            "offset": 0,
+                            "length": 13,
+                            "text": "Underwhelming",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.24,
+                        "neutral": 0.74,
+                        "negative": 0.02
+                    },
+                    "offset": 98,
+                    "length": 176,
+                    "text": "Nestled along the picturesque waterfront of San Francisco, The Harborview Bistro promises an unforgettable culinary journey with its stunning views and enticing menu offerings. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 166,
+                            "length": 17,
+                            "text": "Harborview Bistro",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 210,
+                            "length": 16,
+                            "text": "culinary journey",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 245,
+                            "length": 5,
+                            "text": "views",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/1"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 264,
+                            "length": 14,
+                            "text": "menu offerings",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/2"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 196,
+                            "length": 13,
+                            "text": "unforgettable",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 236,
+                            "length": 8,
+                            "text": "stunning",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 255,
+                            "length": 8,
+                            "text": "enticing",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.48,
+                        "neutral": 0.32,
+                        "negative": 0.2
+                    },
+                    "offset": 274,
+                    "length": 106,
+                    "text": "However, my recent visit left much to be desired, casting a shadow over its otherwise charming ambiance.\r\n",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 375,
+                            "length": 8,
+                            "text": "ambiance",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/2/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 366,
+                            "length": 8,
+                            "text": "charming",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.95,
+                        "neutral": 0.05,
+                        "negative": 0.01
+                    },
+                    "offset": 380,
+                    "length": 110,
+                    "text": "Upon entering the restaurant, I was immediately struck by its elegant decor and panoramic vistas of the harbor. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 458,
+                            "length": 5,
+                            "text": "decor",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/3/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 478,
+                            "length": 6,
+                            "text": "vistas",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/3/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 450,
+                            "length": 7,
+                            "text": "elegant",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 468,
+                            "length": 9,
+                            "text": "panoramic",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.42,
+                        "negative": 0.53
+                    },
+                    "offset": 490,
+                    "length": 127,
+                    "text": "Yet, as the evening progressed, it became evident that the restaurant's aesthetics far outweighed the quality of its cuisine.\r\n",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.84,
+                                "negative": 0.16
+                            },
+                            "offset": 572,
+                            "length": 10,
+                            "text": "aesthetics",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/4/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.84,
+                                "negative": 0.16
+                            },
+                            "offset": 559,
+                            "length": 23,
+                            "text": "restaurant's aesthetics",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/4/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.84,
+                                "negative": 0.16
+                            },
+                            "offset": 587,
+                            "length": 10,
+                            "text": "outweighed",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.01,
+                        "negative": 0.99
+                    },
+                    "offset": 617,
+                    "length": 95,
+                    "text": "While the menu boasted an array of tantalizing dishes, the execution fell short of expectations. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.97,
+                                "negative": 0.03
+                            },
+                            "offset": 676,
+                            "length": 6,
+                            "text": "dishes",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/5/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.97,
+                                "negative": 0.03
+                            },
+                            "offset": 664,
+                            "length": 11,
+                            "text": "tantalizing",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.01,
+                        "negative": 0.99
+                    },
+                    "offset": 712,
+                    "length": 204,
+                    "text": "The flavors lacked depth, and the presentation was uninspired, failing to evoke the culinary excellence one would anticipate from a waterfront establishment in a city renowned for its gastronomic scene.\r\n",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.02,
+                                "negative": 0.98
+                            },
+                            "offset": 760,
+                            "length": 12,
+                            "text": "presentation",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/6/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.02,
+                                "negative": 0.98
+                            },
+                            "offset": 777,
+                            "length": 10,
+                            "text": "uninspired",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.13,
+                        "negative": 0.84
+                    },
+                    "offset": 916,
+                    "length": 37,
+                    "text": "Service, too, left much to be desired. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.01,
+                        "negative": 0.99
+                    },
+                    "offset": 953,
+                    "length": 152,
+                    "text": "Despite the attentive demeanor of the staff, there were notable lapses in efficiency, resulting in prolonged wait times for both food and drink orders. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 1009,
+                            "length": 5,
+                            "text": "staff",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/8/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 1045,
+                            "length": 10,
+                            "text": "efficiency",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/8/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 983,
+                            "length": 9,
+                            "text": "attentive",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 1035,
+                            "length": 6,
+                            "text": "lapses",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.01,
+                        "negative": 0.99
+                    },
+                    "offset": 1105,
+                    "length": 143,
+                    "text": "Additionally, the lack of attention to detail, such as forgotten requests and incorrect orders, detracted from the overall dining experience.\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.01,
+                        "negative": 0.99
+                    },
+                    "offset": 1248,
+                    "length": 199,
+                    "text": "Furthermore, the restaurant's reputation for offering a fine selection of wines was not fully realized, with a limited and somewhat overpriced wine list that failed to complement the menu adequately.\r\n",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 1411,
+                            "length": 9,
+                            "text": "wine list",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/10/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/10/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 1379,
+                            "length": 7,
+                            "text": "limited",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 1400,
+                            "length": 10,
+                            "text": "overpriced",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.76,
+                        "neutral": 0.2,
+                        "negative": 0.03
+                    },
+                    "offset": 1447,
+                    "length": 191,
+                    "text": "In summary, while The Harborview Bistro may lure diners with its stunning setting and promising menu, my experience revealed a disconnect between its ambiance and the quality of its offerings. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1545,
+                            "length": 7,
+                            "text": "setting",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/11/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1567,
+                            "length": 4,
+                            "text": "menu",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/11/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1536,
+                            "length": 8,
+                            "text": "stunning",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1557,
+                            "length": 9,
+                            "text": "promising",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.68,
+                        "neutral": 0.3,
+                        "negative": 0.01
+                    },
+                    "offset": 1638,
+                    "length": 121,
+                    "text": "For those seeking a truly exceptional dining experience in San Francisco, other establishments may prove more satisfying.",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 1702,
+                            "length": 17,
+                            "text": "dining experience",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/12/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 1690,
+                            "length": 11,
+                            "text": "exceptional",
+                            "isNegated": false
+                        }
+                    ]
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
